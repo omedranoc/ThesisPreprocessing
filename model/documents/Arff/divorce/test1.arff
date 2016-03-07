@@ -1,0 +1,115 @@
+@relation whatever
+@attribute url integer
+@attribute Sentiment_polarity real
+@attribute absPolarity real
+@attribute sentiment_subjectivity real
+@attribute L {True, False}
+@attribute ago {True, False}
+@attribute ive {True, False}
+@attribute last {True, False}
+@attribute name {True, False}
+@attribute lost {True, False}
+@attribute hous {True, False}
+@attribute babi {True, False}
+@attribute offici {True, False}
+@attribute work {True, False}
+@attribute well {True, False}
+@attribute keep {True, False}
+@attribute today {True, False}
+@attribute time {True, False}
+@attribute got {True, False}
+@attribute yes {True, False}
+@attribute best {True, False}
+@attribute ex {True, False}
+@data
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,-0.25,0.25,0.5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.07,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.53,0.525,0.47,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True
+0,0.03,0.032142857000000004,0.13,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+0,0.0,0.0,0.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+0,0.0,0.0,0.2,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+0,0.13,0.125,0.16,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.25,0.25,0.25,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.06,0.06428571400000001,0.36,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+0,0.25,0.25,0.25,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+0,0.1,0.1,0.38,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+0,-0.2,0.2,0.3,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+0,0.0,0.0,0.63,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+0,0.04,0.038888888999999996,0.31,True,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.13,0.125,0.13,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+0,-0.1,0.1,0.58,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.13,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,-0.02,0.020833333,0.4,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+0,0.13,0.125,0.13,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.29,0.28571428600000004,0.54,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+0,0.2,0.2,0.2,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.25,0.25,0.25,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+0,-0.5,0.5,0.5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,1.0,1.0,1.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+0,0.4,0.4,0.52,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+0,0.17,0.166666667,0.19,True,False,False,True,False,False,False,False,False,True,False,False,False,True,True,False,False,False
+0,0.14,0.136666667,0.39,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+0,0.13,0.125,0.16,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,False,False
+0,0.3,0.3,0.95,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.65,0.65,0.65,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.45,0.45,0.6,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.21,0.21022727300000002,0.38,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.25,0.25,0.25,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.01,0.008333333,0.27,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.14,0.14285714300000002,0.27,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.78,0.78125,0.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.8,0.8,0.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.7,0.7,0.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+0,-0.11,0.111607143,0.21,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.1,0.1,0.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,1.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.1,0.1,0.15,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.31,0.30625,0.75,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.1,0.1,0.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.63,0.625,0.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.13,0.125,0.57,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.2,0.2,0.4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.8,0.8,0.75,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.08,0.083333333,0.13,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.25,0.25,1.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.2,0.2,0.19,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+0,-0.25,0.25,0.55,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.03,0.033333333,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.25,0.25,0.48,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.12,0.12222222199999999,0.23,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.25,0.25,0.58,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+0,-0.01,0.0125,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.0,0.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.8,0.8,0.9,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,0.0,0.003787879,0.31,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.35,0.35,0.53,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+0,-0.31,0.3125,0.25,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
